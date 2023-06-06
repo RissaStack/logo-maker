@@ -16,7 +16,7 @@ const questArray = [
         message: 'What color would you like your shape to be?',
         choices: [
             'blue',
-            '#D10000',
+            'red',
             'green',
             'yellow',
             'purple',
@@ -42,7 +42,7 @@ const questArray = [
         message: 'What color would you like your text to be?',
         choices: [
             'blue',
-            '#D10000',
+            'red',
             'green',
             'yellow',
             'purple',

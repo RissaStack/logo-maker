@@ -17,10 +17,9 @@ Please refer to the LICENSE in the repo.
 -   HTML
 -   JavaScript
 -   Inquire
+-   node
 
 ## Contributors
-
-I would like to thank the following individuals for their contributions to this project:
 
 -   <a href="https://github.com/RissaStack" target="_blank">Larissa S</a>
 
@@ -30,4 +29,4 @@ I would like to thank the following individuals for their contributions to this 
 
 [Github Repo](https://github.com/RissaStack/logo-maker)
 
-[Video Presentation]()
+[Video Presentation](https://drive.google.com/file/d/1JyqxsL2n1TgD9g_PLV1xaWRJr08luT_s/view)
